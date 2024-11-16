@@ -1,0 +1,571 @@
+actividad,num_resenas,valoracion,categoria
+Sala Amos Salvador,6,4.5,Art Museums
+Oficina de Turismo de Arnedo,12,4.5,Visitor Centers
+Monasterio de la Luz,9,4.5,Churches & Cathedrals
+Centro de la Cultura del Rioja,52,3.5,Art Museums
+Monumento a la Valvanerada,4,5.0,Monuments & Statues
+Finca Ribavellosa,9,5.0,Hiking Trails
+Monumento al Sagrado Corazón de Jesús,11,4.5,Monuments & Statues
+Chorrones de Pena Puerta,6,4.5,Waterfalls
+Bodegas Berceo,6,4.5,Wineries & Vineyards
+Chimenea de La Antigua Tabacalera,20,3.5,Points of Interest & Landmarks
+Santuario de Santa Maria de la Estrella,10,4.0,Religious Sites
+Ermita de Santa Barbara,5,4.0,Churches & Cathedrals
+Bodegas Tobia,10,4.5,Wineries & Vineyards
+Bodegas Vina Laguardia S L,14,4.5,Wineries & Vineyards
+Museo del Torreón,18,4.0,Art Museums
+Ruta de Las Neveras,3,4.5,Hiking Trails
+Bodegas Paco Garcia,9,5.0,Wineries & Vineyards
+Piscinas Municipales,4,4.0,Sports Complexes
+Alfareria Naharro,2,4.5,Factory Outlets
+Uvas y Vino,10,5.0,Wineries & Vineyards
+Cines 7 Infantes,15,3.5,Theaters
+Fuente del Peregrino,11,4.0,Fountains
+Senda De Los Dinosaurios,6,4.0,Points of Interest & Landmarks
+Escape Room Logrono,328,5.0,Escape Games
+Bodegas Mazuela,8,5.0,Wineries & Vineyards
+Ermita de San Juan Santo Cristo de Los Remedios,26,4.0,Churches & Cathedrals
+Bodegas Betolaza,4,5.0,Wineries & Vineyards
+Embalse de Mansilla,4,4.5,Bodies of Water
+Bodegas Perica,7,4.5,Wineries & Vineyards
+Iglesia de San Servando y San German,6,4.5,Religious Sites
+Ilurce Bodegas y Vinedos,5,5.0,
+Junguitu ¿Hablamos de Vino?,8,4.5,
+Puente de Hierro,11,4.0,
+San Esteban de Viguera,7,5.0,
+Oficina de Turismo de Alfaro,10,4.5,
+Club de Golf Sojuela,25,4.0,
+Parroquia Santa Maria La Mayor,14,4.5,
+Bodegas Valoria,4,5.0,
+Oficina de Turismo de Arnedillo,14,4.0,
+Puente de Piedra,14,3.5,
+Eureka! Escape-Room,227,4.5,
+Bodegas Marques de Arviza,8,4.0,
+Monasterio de Santa Maria del Salvador,7,4.5,
+Oficina de Turismo Briones,15,4.0,
+Ayuntamiento De Sajazarra,13,3.5,
+Oficina de Turismo Calahorra,4,5.0,
+Ayuntamiento de Fuenmayor,6,4.0,
+Ermita de San Pedro,4,4.5,
+Bodegas González Puras,3,5.0,
+Muralla Medieval,28,3.5,
+Exposición Permanente de los Pasos de la Semana Santa Calagurritana,3,4.5,
+Bodegas Hermanos Peciña S.l,6,4.5,
+El Campo de Logrono,33,4.0,
+Parroquia de San Miguel Arcángel,10,4.5,
+Oficina de Turismo de Najera,11,3.5,
+Oficina de Turismo,8,4.0,
+Plaza de Toros Los Rosales,3,4.0,
+Bazart Gallery,2,5.0,
+Puente Medieval de Villoslada,11,4.0,
+Marques de Teran,3,5.0,
+Hoplitawines,1,5.0,
+Metaversia,,,
+Logroaventura,,,
+Logroaventura,,,
+Metaversia Calahorra,,,
+Lurreko Aromaticas y Biodiversidad,,,
+Parroquia De Nuestra Señora De La Asunción,,,
+Violeta Betolaza Román. Decoración En Cerámica.,,,
+Campo Miel,,,
+BODEGAS TARÓN,,,
+Plaza de toros La Ribera,,,
+Iglesia De San Martín,,,
+Iglesia de San Martín,,,
+Iglesia Parroquial de La Asunción,,,
+Back In Time,,,
+Iglesia de San Martín,,,
+Bodegas Nestares Eguizábal,,,
+Ermita San Antonio De Padua,,,
+Iglesia de la Asunción,,,
+Ermita De Lollano,,,
+Church of San Saturnino,,,
+Ermita virgen del villar,,,
+Iglesia De Santa Ana,,,
+Iglesia de Villanueva de Cameros,,,
+Iglesia San Martin,,,
+Enjoy the most beautiful places in La Rioja during your stay,,,
+Iglesia Parroquial de Nuestra Senora de La Asuncion,,,
+Iglesia De San Martín,,,
+Museo de Ciencias Naturales de Arnedo,,,
+Playabus,,,
+Hoplita Historic Vineyards,8,5.0,Wineries & Vineyards
+Barranco de la Hoz,17,4.5,Geologic Formations
+Castillo de Davalillo,26,4.0,Points of Interest & Landmarks
+Bodegas Marques de Reinosa,13,5.0,Wineries & Vineyards
+Museo Najerillense,32,3.5,Speciality Museums
+Reserva Natural de Los Sotos de Alfaro,9,5.0,Nature & Wildlife Areas
+Viñedos De Sonsierra,17,5.0,Wineries & Vineyards
+Colelegiata De San Miguel,8,5.0,Churches & Cathedrals
+Abadía cisterciense,9,4.0,Religious Sites
+Espacio Lagares,9,4.5,Speciality Museums
+Enoteca Crixto-14,70,4.5,Wine Bars
+Calado,151,5.0,Wineries & Vineyards
+Alcazar de Nájera,8,3.5,Ancient Ruins
+Palacio del Marques de San Nicolas,31,4.0,Architectural Buildings
+Ermita de la Virgen de la Plaza,29,4.0,Churches & Cathedrals
+Convento de San Francisco,11,4.5,Religious Sites
+AK Museum,2,5.0,Speciality Museums
+Oficina de Turismo de Haro,36,4.0,Visitor Centers
+Ampliación a Victoria,5,4.5,Mines
+Monasterio de San José,8,4.0,Churches & Cathedrals
+Camino Verde del Alhama Cervera del Río Alhama,18,4.5,Hiking Trails
+Oficina de Turismo de Arnedo,12,4.5,Visitor Centers
+iglesia de San Cosme y San Damian,12,4.5,Churches & Cathedrals
+Barrio de la Estación de Haro,2,5.0,Wineries & Vineyards
+Bodega - Hotel FyA,11,4.0,Wineries & Vineyards
+Ayuntamiento Santo Domingo De La Calzada,22,4.0,Government Buildings
+Ermita de Santa Maria de la Piscina,34,4.5,Religious Sites
+Monasterio de la Luz,9,4.5,Churches & Cathedrals
+Estatua de la Libertad,11,4.0,Points of Interest & Landmarks
+Paseo de la Florida,13,4.0,Parks
+Bodegas Vinicola Real,14,5.0,
+Bodegas Bilbainas,267,4.5,
+Basilica de Santa Maria de los Arcos,36,5.0,
+Bodegas Martinez Alesanco,24,5.0,
+Dolmen La Chabola de la Hechicera,22,4.5,
+Museo de la Romanización,18,4.5,
+Torre Exenta,24,4.5,
+Monasterio de Nuestra Señora de Vico,20,4.5,
+Contrebia Leucade,24,4.5,
+La Senda Del Agua,6,5.0,
+Iglesia Santa Maria de Palacio,84,4.0,
+Bodegas Santalba,26,5.0,
+Bodegas Amézola de la Mora,51,5.0,
+Bodegas Alvia,42,5.0,
+Bodegas Castillo de Mendoza,18,5.0,
+Monasterio de Santa Maria de San Salvador,55,4.5,
+Karting Rioja,77,4.5,
+Bodega Contador,26,4.5,
+Teatro Breton,23,4.5,
+Castillo De Arnedo,5,4.5,
+Museo de la Verdura,33,3.5,
+Basilica de Nuestra Senora de la Vega,42,4.0,
+Monasterio Cisterciense de Canas,32,4.5,
+Puente Romano Del Priorato,12,4.5,
+La Frikileria,183,5.0,
+Museo del Calzado. Basilio García,8,4.5,
+Bodegas Ramirez de la Piscina,11,5.0,
+Ayuntamiento de Ezcaray,24,3.5,
+Oficina de Turismo de La Rioja,33,4.0,
+Elemental Escape Room,126,5.0,
+EuroWineTours.com,,,
+Bodega San Martín De Ábalos,,,
+Go Travel Tour,,,
+Bodegas Fernández Eguiluz Peña La Rosa,,,
+Drippin Vintage,,,
+Parque Del Iregua,,,
+Golosinas Kikos,,,
+Macrobert & Canals,,,
+Bodega Abel Mendoza Monge,,,
+Cortefiel,,,
+Franlik Imexport Spain,,,
+Vidrieras Susi Y Julián,,,
+Santa Juliana Park,,,
+Sandra Torroba,,,
+Rocódromo Rawindoor,,,
+Cooperativa Nuestra Senora Del Campo,,,
+Electrodomésticos Arenas,,,
+Bodegas Ochagavia,,,
+Estanco Tabacos Expendeduría No. 8,,,
+Hiper Market Alfaro Sl,,,
+La Riojanita,,,
+Polideportivo Lobete,,,
+Chuchespress,,,
+Hiper Del Repuesto,,,
+Pic Nic,,,
+Del Valle,,,
+Delgado Mobiliario De Baño,,,
+Bodegas Blanco Pérez De Azpillaga,,,
+Lucía Y Carlota,,,
+Abuelo,,,
+Calle del Laurel,"3,669",4.5,
+Tierra Rapaz,"1,555",5.0,
+Marques de Murrieta,462,5.0,
+Bodegas Lecea,"1,036",5.0,
+Bodegas Franco Espanolas,"1,428",4.5,
+Bodegas Muga,890,4.5,
+Vivanco,"1,009",4.5,
+Bodegas Tritium,722,5.0,
+Bodegas Campo Viejo,253,5.0,
+Animales-zoo-riojanatura,325,5.0,
+Bodegas y Vinedos Gomez Cruzado,590,4.5,
+Bodegas Manzanos Haro,283,5.0,
+Bodegas Lopez de Heredia Vina Tondonia,591,4.5,
+Bodega La Rioja Alta S.A.,614,4.5,
+Monasterio de Yuso,742,4.5,
+Arizcuren Bodega & Viñedos,156,5.0,
+Bodega Conde de los Andes,254,5.0,
+Pozas de Aguas Termales de Arnedillo,186,4.0,
+Calle San Juan,335,4.5,
+Cueva de los Cien Pilares,92,4.5,
+Monasterio de Santa Maria La Real,360,4.5,
+CVNE Vino,553,4.5,
+Bodegas David Moreno,345,4.5,
+"Bodegas Ontañón, El Templo del Vino",243,4.5,
+San Millan Suso Monastery,446,4.0,
+Bodegas Vina Ijalba S.A.,155,5.0,
+Bodegas Ramon Bilbao,299,4.0,
+Museo de la Rioja,244,4.5,
+Concatedral de Santa Maria de la Redonda,640,4.0,
+Bodegas Marqués De Cáceres,138,4.5,
+Iglesia Santa Maria la Mayor,47,4.5,Churches & Cathedrals
+Bodegas Olarra,60,4.5,Wineries & Vineyards
+Jardín Botánico de La Rioja,33,5.0,Gardens
+Bodega Finca Valpiedra,83,4.5,Wineries & Vineyards
+Miguel Merino Winery,63,5.0,Wineries & Vineyards
+Centro Comercial Berceo.,32,4.0,Shopping Malls
+Bodegas Finca La Emperatriz,98,5.0,Wineries & Vineyards
+Mercado de San Blas,105,3.5,Shopping Malls
+Bodegas Valenciso,128,5.0,Wineries & Vineyards
+Ermita de San Felices de Bilibio,54,4.5,Religious Sites
+Bodegas Valentin Pascual,86,5.0,Wineries & Vineyards
+Calle Portales,43,4.5,Points of Interest & Landmarks
+La Casa Encantada,65,4.0,Speciality Museums
+Bodegas Marques de Vargas,20,4.5,Wineries & Vineyards
+Iglesia de Santiago el Real,111,4.0,Churches & Cathedrals
+Catedral de Santa Maria,97,4.0,Churches & Cathedrals
+Castillo de Cuzcurrita Wine Cellar,39,4.5,Wineries & Vineyards
+Pantano de La Grajera,19,4.5,Bodies of Water
+Aqualar,7,3.5,Water Parks
+Centro de Interpretacion Paleontologica de La Rioja,57,4.0,Science Museums
+Monasterio de Nuestra Senora de la Piedad,72,4.5,Religious Sites
+Bodegas LAN,46,5.0,Wineries & Vineyards
+Castillo De San Vicente,64,4.5,Castles
+Fabrica De Harinas La Gloria,22,5.0,Speciality Museums
+Centro historico de Haro,28,4.0,Points of Interest & Landmarks
+Bodegas Montecillo,28,4.5,Wineries & Vineyards
+Tobelos Bodegas y Vinedos,24,5.0,Wineries & Vineyards
+Iglesia de Nuestra Senora de la Asuncion,76,4.5,Churches & Cathedrals
+El Cubo de Revellin,114,4.0,Ancient Ruins
+Ermita de Allende,29,4.5,Churches & Cathedrals
+Bodega Viña Real,109,4.5,
+Parque Natural Sierra Cebollera,133,4.5,
+Cathedral of Santo Domingo de la Calzada,311,4.5,
+Bodegas Martinez Lacuesta,142,4.5,
+La Bodega del Tesoro,64,5.0,
+Bohedal Bodega Boutique,268,5.0,
+Altanza,133,5.0,
+Mirador de las Ciguenas,143,4.5,
+Bodegas Riojanas,173,4.5,
+Bodegas Roda,163,4.5,
+Catedral de El Salvador de Santo Domingo de la Calzada,221,4.5,
+Bodegas Urbina,174,5.0,
+Bodegas Faustino Rivero Ulecia,31,5.0,
+Iglesia de San Bartolome,274,4.5,
+Bodega Hacienda Lopez de Haro,41,5.0,
+Bodegas TIHOM,17,5.0,
+Paseo del Espolon,213,4.0,
+El Barranco Perdido,187,3.0,
+Bodegas Beronia,72,4.5,
+Iglesia Nuestra Senora de la Asuncion,62,5.0,
+Casa de Las Ciencias,165,4.0,
+Arnedo Shopping Factory,7,3.5,
+Church of Santo Tomas,132,4.5,
+Parque del Ebro,117,4.5,
+Cuevas de Ortigosa de Cameros,91,4.0,
+Castillo de Sajazarra,42,4.5,
+Valdezcaray,161,3.5,
+Monastery of Valvanera,122,4.0,
+Miguel Merino Winery,63,5.0,
+Museo Wurth La Rioja,72,4.5,
+Cafe Luz,21,3.5,Bars & Clubs
+Capitan Haddock Cafe & Parque Infantil,5,4.5,Bars & Clubs
+Anastasiya Gastrobar,2,5.0,Bars & Clubs
+Discoteca Concept,3,3.5,Dance Clubs & Discos
+Iglesia de la Asuncion,1,3.0,Churches & Cathedrals
+Vinoteca Rodriguez Alonso,9,3.0,Bars & Clubs
+Plaza Del Juego De La Oca,1,3.0,Monuments & Statues
+La Fama,9,3.0,Bars & Clubs
+Cafe Boulevard,16,4.0,Bars & Clubs
+Masajes Raquel Blanco,9,4.0,Spas
+Zhivago Cafe,1,5.0,Bars & Clubs
+Badaran Que Hablar,2,5.0,Wineries & Vineyards
+Centro Ecuestre Villarrica,3,4.5,Horseback Riding Tours
+Tierra de Sabores (Wine Shop),9,3.0,Speciality & Gift Shops
+EL RINCON DE LA CANELA,302,5.0,Bars & Clubs
+Rioja Tasting Travel,310,5.0,Sightseeing Tours
+Riojatrek,2,4.5,Sightseeing Tours
+Atipyca,44,5.0,Speciality & Gift Shops
+Calado de Catas El Legado,8,4.0,Wine Tours & Tastings
+Chamberi Villamediana,2,5.0,Bars & Clubs
+Taxi Jose Haro,4,5.0,Taxis & Shuttles
+Vinos Castro,5,4.0,Wineries & Vineyards
+Vinun Ad Amicus,3,4.5,Wine Bars
+Cafeteria Medievo,1,5.0,Bars & Clubs
+BAR DEL Castillo,67,5.0,Bars & Clubs
+Licoreria Virgen Del Cisne,1,5.0,Wineries & Vineyards
+La Rioja Bike Tours,,,Gear Rentals
+Bridge of Mantible,,,Bridges
+Bodegas Petralanda,,,Wineries & Vineyards
+Riojaforum,,,Convention Centers
+Bar Diagonal,7,4.0,Bars & Clubs
+Bodegas La Eralta,1,5.0,Wineries & Vineyards
+La Boheme,1,5.0,Bars & Clubs
+Bodegas Castillo Alonso,2,2.5,Wineries & Vineyards
+Bodegas Aradón,196,5.0,Wineries & Vineyards
+Los Secretos de Claudia,1,4.0,Speciality & Gift Shops
+Enocuatro S.l,4,5.0,Wineries & Vineyards
+Embutidos y Jamones Gloria,19,3.0,Speciality & Gift Shops
+Bar Acuario,3,4.5,Bars & Clubs
+Cerveceria Titanic,37,4.5,Breweries
+Love Rioja,15,4.5,Sightseeing Tours
+San Queremos,41,5.0,Escape Games
+Amaliss,3,5.0,Bars & Clubs
+Bodega Eduardo Garrido,6,3.5,Wineries & Vineyards
+Cafe Parlamento,3,3.5,Bars & Clubs
+Carlos Serres,1,4.0,Wineries & Vineyards
+Al Punto,2,5.0,Bars & Clubs
+Fungiturismo,,,Sightseeing Tours
+Bodega Cooperativa San Isidro Labrador,,,Wineries & Vineyards
+Bodegas Y Vinedos Quiroga De Pablo,,,Wineries & Vineyards
+Queso Los Cameros,,,Factory Tours
+Danitguia,,,Climbing Tours
+Ares 9,,,Department Stores
+Brezo,,,Bars & Clubs
+Genesis,,,Bars & Clubs
+Galeria Pub,,,Bars & Clubs
+Bodegas Sonsierra Wine Bar,,,Wine Bars
+Alberto Gutiérrez Andrés,,,Wineries & Vineyards
+Vinoteca Larría,,,Wineries & Vineyards
+Cafe Carlos,,,Bars & Clubs
+Bodegas Latente,14,3.5,Wineries & Vineyards
+Troika Bar,22,5.0,Bars & Clubs
+Proyecto 5 Escape Room & Shop,1,3.0,Escape Games
+Casa de los Gadea,14,5.0,Architectural Buildings
+Senorio de Valbornedo,4,2.5,Wineries & Vineyards
+Rioja Rentabike,2,4.0,Gear Rentals
+Ayuntamiento De San Asensio,2,3.5,Architectural Buildings
+Iglesia Nuestra Senora de la Natividad,7,4.5,Churches & Cathedrals
+Iglesia De San Pedro,6,4.5,Churches & Cathedrals
+Haro Taxi,1,5.0,Taxis & Shuttles
+Hotel California,7,3.5,Bars & Clubs
+Metaversia Calahorra,11,4.0,Game & Entertainment Centers
+Ermita de San Roque,15,4.0,Churches & Cathedrals
+Centro zen Dharma,195,5.0,Lessons & Workshops
+Pirolo,1,3.0,Bars & Clubs
+Globos Arcoiris,6,5.0,Balloon Rides
+Ayuntamiento De Elvillar,6,5.0,Government Buildings
+Date un Capricho,3,4.5,Speciality & Gift Shops
+Asalto Al Cole I Escape Room,1,4.0,Escape Games
+Pub Cumbia Son Karaoke,4,4.5,Karaoke Bars
+Iglesia de San Julian,43,2.5,Churches & Cathedrals
+Art-4,2,4.5,Speciality & Gift Shops
+Saline Spa,12,4.0,Spas
+Yaldekarts,2,5.0,Game & Entertainment Centers
+Bar 5 Pesos,11,4.0,Bars & Clubs
+Sala Negra Café-Teatro,302,5.0,Comedy Clubs
+Morry,89,5.0,Bars & Clubs
+Rioja Tasting Travel,21,3.5,Sightseeing Tours
+Silvestres,,,Eco Tours
+Cafe Luz,,,Bars & Clubs
+Castillo De Enciso,1,4.0,Castles
+Bodegas Obalo,1,5.0,Wineries & Vineyards
+Iglesia de San Juan de Letran,1,4.0,Ancient Ruins
+Museo Virgen de la Vega,2,3.5,Children's Museums
+Maze Room,41,4.5,Escape Games
+Castillo De Nalda,1,4.0,Castles
+Casco antiguo de Calahorra,15,2.0,Points of Interest & Landmarks
+Torreon de Sor María de Leiva,1,4.0,Observation Decks & Towers
+Ayuntamiento de Viniegra de Abajo,3,3.5,Government Buildings
+Bar Fraggle Rock,6,5.0,Bars & Clubs
+Ayuntamiento de Viniegra de Arriba,3,3.5,Government Buildings
+Iglesia Parroquial de Santa María,2,4.0,Churches & Cathedrals
+Hospital de San Juan de Acre,5,2.5,Ancient Ruins
+Teorema,106,4.5,Bars & Clubs
+Castillo de Herce,2,4.5,Ancient Ruins
+Del Mar Skatehouse,2,4.5,Game & Entertainment Centers
+La Cueva _San Juan13,32,4.0,Bars & Clubs
+Castillo De Autol,1,4.0,Castles
+Iglesia De Santa Eulalia,1,5.0,Churches & Cathedrals
+Bodega Beleluin,2,4.0,Wineries & Vineyards
+Iglesia de Santa Maria la Mayor de Treviana,14,3.5,Churches & Cathedrals
+Troika Bar,7,4.0,Bars & Clubs
+Saoco Salsoteca,1,3.0,Bars & Clubs
+La Casa Del Indiano,22,5.0,Architectural Buildings
+Proyecto 5 Escape Room & Shop,7,5.0,Escape Games
+Bodegas Latente,1,5.0,Wineries & Vineyards
+Mitsou Art Shop & Studio,1,5.0,Speciality & Gift Shops
+Ermita de La Ascensión,1,4.0,Churches & Cathedrals
+Ateneo Riojano,,,Cultural Events
+Iglesia De San Adrian,,,Churches & Cathedrals
+Vinoteca Larría,2,5.0,Wineries & Vineyards
+Alberto Gutiérrez Andrés,46,5.0,Wineries & Vineyards
+Cafe Carlos,5,3.5,Bars & Clubs
+Enoturismo en Bodegas Corral,1,4.0,Wine Tours & Tastings
+Complejo Deportivo El Mazo,13,2.5,Arenas & Stadiums
+CAFETERIA ATALAYA,1,5.0,Bars & Clubs
+Sala Gonzalo de Berceo,26,4.0,Movie Theaters
+Cafe Stress Bar,7,3.5,Bars & Clubs
+Enigma,1,5.0,Bars & Clubs
+Bodega Antigua De Azenari,1,1.0,Wineries & Vineyards
+Campo Activo,2,5.0,Hiking & Camping Tours
+El Mexicano,2,2.0,Bars & Clubs
+Museo Del Vino Portal De La Rioja,1,3.0,Speciality Museums
+Vinos Los Santos S L,24,5.0,Wineries & Vineyards
+Cines Arcca,8,3.0,Movie Theaters
+Algazara Estudio,2,4.0,Lessons & Workshops
+Cafe Lucronium,7,5.0,Bars & Clubs
+Primark Logrona Berceo,16,5.0,Speciality & Gift Shops
+Centro Gallego,1,5.0,Bars & Clubs
+Sala Macao,2,5.0,Bars & Clubs
+Equis Moda,,,Speciality & Gift Shops
+Ojasport,,,Balloon Rides
+Cafe Del Mercado,,,Bars & Clubs
+Casino Calceatense,,,Casinos
+Los Cuentos de La Luna,,,Bars & Clubs
+"Parque de Aventura ""Sierra de Cameros"" de Lumbreras",,,Climbing Tours
+Parque Infantil,,,Parks
+Sensum Rioja Tours,,,Multi-day Tours
+El Dorado Centro Equestre,,,Horseback Riding Tours
+Tren Turistico Del Vino,,,Bus Tours
+Pause & Play,2,2.0,
+Parque de Iturrimurri,4,3.5,
+Ninfeo del Vino,37,5.0,
+Iglesia Parroquial De Santa Maria De La Asuncion,13,3.5,
+"Centro del Romanico ""Rioja Romanica""",4,4.0,
+Puente Medieval,11,4.0,
+Bodega Finca de Los Arandinos,7,3.5,
+Isla Park,2,3.5,
+Concordia Park,3,3.5,
+Plaza De Toros De Arnedo,1,4.0,
+Gravedad Zero,6,4.5,
+Parroquia de Santa Maria de Valvanera,18,3.0,
+Dulin Sombrerero,5,4.5,
+Sendero de Valvanera,2,4.0,
+Bodegas Obalo,1,5.0,
+Iglesia Parroquial de la Santa Cruz,5,4.5,
+Ermita De San Andrés Y San Blas,1,4.0,
+Muralla,7,3.5,
+Parque de las Victimas del Terrorismo,3,3.0,
+Cascada Puente Ra,2,3.5,
+Picuezo E Picueza,1,5.0,
+Castillo de Quel,2,4.0,
+Puente Romano (medieval),1,5.0,
+Ermita de Santa Maria de la Antigua o de la Santa Cruz,4,4.5,
+Ermita de San Juan de Arriba,6,4.0,
+Bodegas Ajuarte,1,5.0,
+Iglesia de Santiago,1,4.0,
+Centro de la Emigracion Riojana,2,4.5,
+Castillo de Herce,2,4.5,
+Antiguas minas de plomo de Jubera,2,4.0,
+Santuario de la Virgen de Tomalos,3,4.5,Points of Interest & Landmarks
+Fuertes Gourmet,77,5.0,Speciality & Gift Shops
+Aceites Hejul,3,5.0,Distilleries
+Ayuntamiento De San Vicente De La Sonsierra,11,4.0,Government Buildings
+Mirador Del Río Leza,2,5.0,Lookouts
+Piscinas Municipales,1,3.0,Sports Complexes
+Palacio De La Baronesa,1,4.0,Architectural Buildings
+Bar Donosti,161,4.0,Bars & Clubs
+Bodegas Mentoste,2,5.0,Wineries & Vineyards
+Mirador De Viguera,1,5.0,Lookouts
+LogicRoom,89,5.0,Escape Games
+Plaza De Toros De La Ribera,1,5.0,Arenas & Stadiums
+La Abadia Perdida,28,5.0,Escape Games
+Hospital San Juan de Acre,3,4.0,Points of Interest & Landmarks
+Insidious,47,5.0,Escape Games
+Castillo De Aguas Mansas,2,5.0,Castles
+Bulevar del Calzado,2,3.5,Monuments & Statues
+Castillo De Arnedillo,1,4.0,Castles
+La Casa de La Imagen,4,4.0,Speciality Museums
+Ojapark,12,4.0,Game & Entertainment Centers
+Rioja Like A Native,692,5.0,Cultural Tours
+Bodegas Montecillo,3,4.5,Wineries & Vineyards
+Bodegas Cor De Mei,2,5.0,Wineries & Vineyards
+Parlamento De La Rioja,7,4.0,Government Buildings
+Bodegas Senorio de Somalo,2,5.0,Wineries & Vineyards
+Estadio Municipal De Las Gaunas,1,5.0,Playgrounds
+Tio agus,142,4.5,Bars & Clubs
+Parroquia de la Ascensión,5,4.0,Architectural Buildings
+Espacio Sagasta,3,4.5,Speciality Museums
+Rioja Alta Golf Club,20,3.5,Golf Courses
+Heredad San Andrés,7,5.0,Wineries & Vineyards
+"Parque de Aventura ""Sierra de Cameros"" de Lumbreras",16,5.0,Climbing Tours
+Parapente Riojavuela,2,5.0,Parasailing & Paragliding
+Tren Turistico Del Vino,19,5.0,Bus Tours
+Rioja Wine Tours,50,5.0,Food Tours
+Grape Aventura,2,3.0,Self-Guided Tours & Rentals
+CLAM bar pizza,23,5.0,Bars & Clubs
+Segway la Rioja,1,3.0,Segway Tours
+Golmajería La Golosina,14,4.5,Speciality & Gift Shops
+Local Experts Tours,10,4.0,Walking Tours
+Polideportivo Valle Del Oja,5,5.0,Arenas & Stadiums
+Rafting Rioja,3,5.0,Canyoning & Rappelling Tours
+Free Tour Logroño,17,4.5,Day Trips
+Bodegas Gregorio Martinez,1,1.0,Wine Tours & Tastings
+Bierhaus Odeon,1,1.0,Beer Tastings & Tours
+Tio Tito Bocadillos,27,5.0,Bars & Clubs
+Diva Bar de Copas,9,3.5,Bars & Clubs
+Exquisite Rioja,29,4.5,Cultural Tours
+Moscaventur,3,5.0,Canyoning & Rappelling Tours
+Traveloja,9,5.0,"4WD, ATV & Off-Road Tours"
+FABRES Boutique Agency,1,5.0,Cultural Tours
+La Tienda De Julia,6,5.0,Speciality & Gift Shops
+Kensho Estética Y Bienestar,2,5.0,Spas
+Aerorioja,,,Air Tours
+Laurus Spa,,,Spas
+Logroaventura,,,Canyons
+Rutaventura4x4,,,Private Tours
+Bodega Teodoro Ruíz Monge,,,Wine Tours & Tastings
+Havefun Logroño,,,Speciality & Gift Shops
+Antártica,,,Speciality & Gift Shops
+Cinema pub,,,
+Zen Club,,,
+La Segunda Taberna,,,
+Embutidos y Jamones Gloria,,,
+Bodegas JER,,,
+Carlos Capin Suarez,,,
+La Plazuela de Barriocepo,,,
+Iglesia de la Santa Cruz,,,
+Enjoy the most beautiful places in La Rioja during your stay,,,
+Iglesia De San Martín,,,
+Las Majadas,,,
+Iglesia Inmaculada,,,
+Iglesia San Martin,,,
+Museo de Ciencias Naturales de Arnedo,,,
+Iglesia Parroquial de Nuestra Senora de La Asuncion,,,
+Albergue de Lumbreras,,,
+Rioja in Style,,,
+Rivalia Bodegas y Vinedos,,,
+Sensum Rioja Tours by Celia,,,
+Unidad cccc,,,
+Sparta Sport Center,,,
+Iglesia Parroquial de Santa Eulalia de Merida,,,
+Bridge of Mantible,,,
+Bodegas Horola,,,
+Monasterio de San Prudencio,,,
+Kauri Salud y Bienestar,,,
+Parroquia De Nuestra Señora De La Asunción,,,
+Campo Miel,,,
+Violeta Betolaza Román. Decoración En Cerámica.,,,
+Iglesia De San Martín,,,
+Cine Doga,8,5.0,
+Aesthetic Center Silvia Pascual,2,3.5,
+Hola Rioja,14,5.0,
+Visitas Guiadas a Logroño,3,5.0,
+Gominolo,1,5.0,
+Prosystem Seguridad,1,5.0,
+Rioja&North,3,4.5,
+Almazara Riojana,3,3.5,
+Dir Rioja,3,2.5,
+La Rioja en Globo,2,5.0,
+Complementos Barrios,1,5.0,
+Viveros Inverflor,1,5.0,
+JamonSobron Embutidos,,,
+Solivagant,,,
+La Carretilla,,,
+100 Arquitectos Proyectos,,,
+Famaliving Logrono,,,
+Don Tresillo,,,
+La Mieleria,,,
+Cultural Circuits InterRías Trips,,,
+Enoturismo Ecuestre,,,
+Riojapress,,,
+Pipes,,,
+Benini Moda Y Complementos,,,
+Mercería La Cinta Roja,,,
+Alvuelo,,,
+Logroaventura,,,
+Bambú La Rioja,,,
+Visitas Narradas a Calados y Lagares en Logroño,,,
+Traddu Traducción & Internacionalización,,,
