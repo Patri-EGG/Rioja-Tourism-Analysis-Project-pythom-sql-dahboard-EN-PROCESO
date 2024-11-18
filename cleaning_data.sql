@@ -83,5 +83,16 @@ UPDATE top_restaurants_trip
 SET rating = NULL
 WHERE rating = 0;
 
+-- REEMPLAZAR VALORES ENTEROS A DECIMALES EN COLUMNA VALORACION
+
+ALTER TABLE top_activities_trip
+ALTER COLUMN valoracion FLOAT
+
+UPDATE top_activities_trip
+SET valoracion = CAST(valoracion AS FLOAT) / 10;
+
+
+
+
 
 
