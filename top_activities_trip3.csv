@@ -1,0 +1,571 @@
+actividad,num_resenas,valoracion,categoria,ubicacion
+Paseo de la Florida,13,4.0,Parks,Logrono
+Castillo de Clavijo,27,4.0,Castles,Clavijo
+Sala Amos Salvador,6,4.5,Art Museums,Logrono
+Finca Ribavellosa,9,5.0,Hiking Trails,Ribabellosa
+Centro de la Cultura del Rioja,52,3.5,Art Museums,Logrono
+Chorrones de Pena Puerta,6,4.5,Waterfalls,Viguera
+Monumento al Sagrado Corazón de Jesús,11,4.5,Monuments & Statues,Torrecilla en Cameros
+Ermita de Santa Barbara,5,4.0,Churches & Cathedrals,Ezcaray
+Ruta de Las Neveras,3,4.5,Hiking Trails,Sojuela
+Santuario de Santa Maria de la Estrella,10,4.0,Religious Sites,San Asensio
+Piscinas Municipales,4,4.0,Sports Complexes,Torrecilla en Cameros
+Cines 7 Infantes,15,3.5,Theaters,Logrono
+Bodegas Tobia,10,4.5,Wineries & Vineyards,Cuzcurrita de Rio Tiron
+Escape Room Logrono,328,5.0,Escape Games,Logrono
+Monumento a la Valvanerada,4,5.0,Monuments & Statues,Logrono
+Chimenea de La Antigua Tabacalera,20,3.5,Points of Interest & Landmarks,Logrono
+Bodegas Mazuela,8,5.0,Wineries & Vineyards,Cenicero
+Bodegas Berceo,6,4.5,Wineries & Vineyards,Haro
+Alfareria Naharro,2,4.5,Factory Outlets,Navarrete
+Bodegas Paco Garcia,9,5.0,Wineries & Vineyards,Murillo del Rio Leza
+Senda De Los Dinosaurios,6,4.0,Points of Interest & Landmarks,Enciso
+Uvas y Vino,10,5.0,Wineries & Vineyards,Aldeanueva de Ebro
+Bodegas Vina Laguardia S L,14,4.5,Wineries & Vineyards,El Villar
+Museo del Torreón,18,4.0,Art Museums,Haro
+Embalse de Mansilla,4,4.5,Bodies of Water,Mansilla de la Sierra
+Ermita de San Juan Santo Cristo de Los Remedios,26,4.0,Churches & Cathedrals,
+Bodegas Betolaza,4,5.0,Wineries & Vineyards,
+Bodegas Perica,7,4.5,Wineries & Vineyards,
+Iglesia de San Servando y San German,6,4.5,Religious Sites,
+Ilurce Bodegas y Vinedos,5,5.0,Wineries & Vineyards,
+Fuente del Peregrino,11,4.0,Fountains,Logrono
+Club de Golf Sojuela,25,4.0,Golf Courses,Sojuela
+Puente de Hierro,11,4.0,Bridges,Logrono
+San Esteban de Viguera,7,5.0,Points of Interest & Landmarks,Albelda de Iregua
+Junguitu ¿Hablamos de Vino?,8,4.5,Wineries & Vineyards,Brinas
+Eureka! Escape-Room,227,4.5,Escape Games,Logrono
+Oficina de Turismo de Alfaro,10,4.5,Visitor Centers,Alfaro
+Oficina de Turismo de Arnedillo,14,4.0,Visitor Centers,Arnedillo
+Oficina de Turismo Calahorra,4,5.0,Visitor Centers,Calahorra
+Ayuntamiento De Sajazarra,13,3.5,Government Buildings,Sajazarra
+Bodegas Marques de Arviza,8,4.0,Wineries & Vineyards,Fuenmayor
+Parroquia Santa Maria La Mayor,14,4.5,Churches & Cathedrals,San Vicente de la Sonsierra
+Ermita de San Pedro,4,4.5,Points of Interest & Landmarks,Torrecilla en Cameros
+Exposición Permanente de los Pasos de la Semana Santa Calagurritana,3,4.5,Art Museums,Logrono
+Bodegas Valoria,4,5.0,Wineries & Vineyards,Fuenmayor
+Ayuntamiento de Fuenmayor,6,4.0,Architectural Buildings,Briones
+Oficina de Turismo Briones,15,4.0,Visitor Centers,San Vicente de la Sonsierra
+Bodegas Hermanos Peciña S.l,6,4.5,Wineries & Vineyards,Logrono
+El Campo de Logrono,33,4.0,Golf Courses,San Asensio
+Bodegas González Puras,3,5.0,Wineries & Vineyards,Canas
+Monasterio de Santa Maria del Salvador,7,4.5,Churches & Cathedrals,Navarrete
+Oficina de Turismo,8,4.0,Visitor Centers,Najera
+Oficina de Turismo de Najera,11,3.5,Visitor Centers,Cuzcurrita de Rio Tiron
+Parroquia de San Miguel Arcángel,10,4.5,Religious Sites,Ezcaray
+Piscinas Municipales,1,3.0,Sports Complexes,
+Muralla Medieval,28,3.5,Points of Interest & Landmarks,
+Puente de Piedra,14,3.5,Piers & Boardwalks,
+Marques de Teran,3,5.0,Wineries & Vineyards,
+Santuario de la Virgen de Tomalos,3,4.5,Points of Interest & Landmarks,
+Fuertes Gourmet,77,5.0,Speciality & Gift Shops,
+Museo de Ciencias Naturales de Arnedo,0,,Speciality Museums,Arnedo
+Back In Time,0,,Escape Games,Logrono
+Iglesia De Santa Ana,0,,Churches & Cathedrals,Cervera del Rio Alhama
+Iglesia de la Asunción,0,,Churches & Cathedrals,Hornos de Moncalvillo
+Ermita virgen del villar,0,,Churches & Cathedrals,Pradillo
+Iglesia Parroquial de La Asunción,0,,Churches & Cathedrals,Villamediana de Iregua
+Ermita San Antonio De Padua,0,,Religious Sites,Cervera del Rio Alhama
+Senorio de Valbornedo,0,,Wineries & Vineyards,Navarrete
+Bodegas Latente,0,,Wineries & Vineyards,Albelda de Iregua
+Bodega Beleluin,0,,Wineries & Vineyards,Alcanadre
+Kauri Salud y Bienestar,0,,Spas,Logrono
+Monasterio de San Prudencio,0,,Ancient Ruins,Clavijo
+Iglesia de Villanueva de Cameros,0,,Churches & Cathedrals,Villanueva de Cameros
+Ermita De Lollano,0,,Churches & Cathedrals,Villanueva de Cameros
+Carlos Capin Suarez,0,,Taxis & Shuttles,Haro
+Parroquia De Nuestra Señora De La Asunción,0,,Churches & Cathedrals,Nalda
+Violeta Betolaza Román. Decoración En Cerámica.,0,,Speciality & Gift Shops,Tricio
+Campo Miel,0,,Lessons & Workshops,Logrono
+Iglesia de San Martín,0,,Churches & Cathedrals,Pradillo
+Ermita Ntra. Sra. de los Nogales,0,,Churches & Cathedrals,Villanueva de Cameros
+Church of San Saturnino,0,,Churches & Cathedrals,Ventosa
+Iglesia de San Martín,0,,Churches & Cathedrals,Albelda de Iregua
+Iglesia De San Martín,0,,Churches & Cathedrals,Casalarreina
+Bodegas Obalo,0,,Wineries & Vineyards,Abalos
+Quickgold Logroño,0,,Speciality & Gift Shops,Logrono
+BODEGAS TARÓN,0,,Nature & Wildlife Tours,
+Plaza de toros La Ribera,0,,Parks,
+Iglesia de la Asunción,0,,Churches & Cathedrals,
+Spain Transfers,0,,Taxis & Shuttles,
+Logroaventura,0,,Climbing Tours,
+Elemental Escape Room,126,5.0,,
+Barranco de la Hoz,17,4.5,,
+Castillo de Davalillo,26,4.0,,
+Bodegas Marques de Reinosa,13,5.0,,
+Museo Najerillense,32,3.5,,
+Reserva Natural de Los Sotos de Alfaro,9,5.0,,
+Viñedos De Sonsierra,17,5.0,,
+Colelegiata De San Miguel,8,5.0,,
+Abadía cisterciense,9,4.0,,
+Enoteca Crixto-14,70,4.5,,
+Espacio Lagares,9,4.5,,
+Calado,151,5.0,,
+Alcazar de Nájera,8,3.5,,
+Palacio del Marques de San Nicolas,31,4.0,,
+Ermita de la Virgen de la Plaza,29,4.0,,
+Convento de San Francisco,11,4.5,,
+AK Museum,2,5.0,,
+Oficina de Turismo de Haro,36,4.0,,
+Ampliación a Victoria,5,4.5,,
+Monasterio de San José,8,4.0,,
+Camino Verde del Alhama Cervera del Río Alhama,18,4.5,,
+Barrio de la Estación de Haro,2,5.0,,
+Oficina de Turismo de Arnedo,12,4.5,,
+iglesia de San Cosme y San Damian,12,4.5,,
+Bodega - Hotel FyA,11,4.0,,
+Ermita de Santa Maria de la Piscina,34,4.5,,
+Ayuntamiento Santo Domingo De La Calzada,22,4.0,,
+Monasterio de la Luz,9,4.5,,
+Estatua de la Libertad,11,4.0,,
+Bodega CM de Matarromera,14,5.0,,
+Tobelos Bodegas y Vinedos,24,5.0,Wineries & Vineyards,Brinas
+Bodegas Bilbainas,267,4.5,Wine Bars,Haro
+Basilica de Santa Maria de los Arcos,36,5.0,Churches & Cathedrals,Tricio
+Bodegas Martinez Alesanco,24,5.0,Wineries & Vineyards,Badaran
+Dolmen La Chabola de la Hechicera,22,4.5,Points of Interest & Landmarks,El Villar
+Museo de la Romanización,18,4.5,Art Museums,Calahorra
+Torre Exenta,24,4.5,Points of Interest & Landmarks,Santo Domingo de la Calzada
+Monasterio de Nuestra Señora de Vico,20,4.5,Religious Sites,Arnedo
+Contrebia Leucade,24,4.5,History Museums,Aguilar del Rio Alhama
+La Senda Del Agua,6,5.0,Waterfalls,Matute
+Iglesia Santa Maria de Palacio,84,4.0,Churches & Cathedrals,Logrono
+Bodegas Santalba,26,5.0,Wineries & Vineyards,Gimileo
+Bodegas Amézola de la Mora,51,5.0,Wineries & Vineyards,Torremontalbo
+Bodegas Alvia,42,5.0,Wineries & Vineyards,Ventosa
+Bodegas Castillo de Mendoza,18,5.0,Wineries & Vineyards,San Vicente de la Sonsierra
+Monasterio de Santa Maria de San Salvador,55,4.5,Religious Sites,Canas
+Karting Rioja,77,4.5,Game & Entertainment Centers,Logrono
+Bodega Contador,26,4.5,Wineries & Vineyards,San Vicente de la Sonsierra
+Teatro Breton,23,4.5,Theaters,Logrono
+Castillo De Arnedo,5,4.5,Ancient Ruins,Arnedo
+Museo de la Verdura,33,3.5,Speciality Museums,Calahorra
+Basilica de Nuestra Senora de la Vega,42,4.0,Churches & Cathedrals,Haro
+Monasterio Cisterciense de Canas,32,4.5,Churches & Cathedrals,Canas
+Puente Romano Del Priorato,12,4.5,Bridges,Cihuri
+La Frikileria,184,5.0,Speciality & Gift Shops,Logrono
+Museo del Calzado. Basilio García,8,4.5,Speciality Museums,
+Bodegas Ramirez de la Piscina,11,5.0,Wineries & Vineyards,
+Hoplita Historic Vineyards,8,5.0,Wineries & Vineyards,
+Ayuntamiento de Ezcaray,24,3.5,Architectural Buildings,
+Oficina de Turismo de La Rioja,33,4.0,Visitor Centers,
+Enocuatro S.l,0,,,
+Gominolo,0,,,
+Hiper Del Repuesto,0,,,
+Franlik Imexport Spain,0,,,
+Bodegas Fernández Eguiluz Peña La Rosa,0,,,
+EuroWineTours.com,0,,,
+Bodegas Aradón,0,,,
+Bodegas Martínez Palacios,0,,,
+Bodegas Ochagavia,0,,,
+Vino Y Algo Mas,0,,,
+Havefun Logroño,0,,,
+Cocinados Gran Via,0,,,
+Go Travel Tour,0,,,
+Playabus,0,,,
+Drippin Vintage,0,,,
+Parque Del Iregua,0,,,
+Santa Juliana Park,0,,,
+Macrobert & Canals,0,,,
+Bodegas La Eralta,0,,,
+Rocódromo Rawindoor,0,,,
+Chuchespress,0,,,
+Del Valle,0,,,
+Vidrieras Susi Y Julián,0,,,
+Complejo Deportivo El Mazo,0,,,
+Antártica,0,,,
+Abuelo,0,,,
+Alberto Gutiérrez Andrés,0,,,
+Bar El Parlamento,0,,,
+Dir Rioja,0,,,
+Mercería La Cinta Roja,0,,,
+Calle del Laurel,3669,4.5,,
+Tierra Rapaz,1555,5.0,,
+Marques de Murrieta,462,5.0,,
+Bodegas Lecea,1036,5.0,,
+Bodegas Franco Espanolas,1428,4.5,,
+Bodegas Muga,890,4.5,,
+Vivanco,1009,4.5,,
+Bodegas Campo Viejo,253,5.0,,
+Bodegas y Vinedos Gomez Cruzado,591,4.5,,
+Bodegas Tritium,722,5.0,,
+Animales-zoo-riojanatura,325,5.0,,
+Bodegas Manzanos Haro,283,5.0,,
+Bodega La Rioja Alta S.A.,614,4.5,,
+Bodegas Lopez de Heredia Vina Tondonia,591,4.5,,
+Monasterio de Yuso,743,4.5,,
+Bodega Conde de los Andes,254,5.0,,
+Arizcuren Bodega & Viñedos,156,5.0,,
+Pozas de Aguas Termales de Arnedillo,186,4.0,,
+Calle San Juan,335,4.5,,
+CVNE Vino,553,4.5,,
+Monasterio de Santa Maria La Real,360,4.5,,
+Cueva de los Cien Pilares,92,4.5,,
+Bodegas David Moreno,345,4.5,,
+"Bodegas Ontañón, El Templo del Vino",243,4.5,,
+San Millan Suso Monastery,446,4.0,,
+Bodegas Vina Ijalba S.A.,154,5.0,,
+Bodegas Ramon Bilbao,299,4.0,,
+Concatedral de Santa Maria de la Redonda,640,4.0,,
+Museo de la Rioja,244,4.5,,
+Bodegas Marqués De Cáceres,138,4.5,,
+Cuevas de Ortigosa de Cameros,91,4.0,Caverns & Caves,Ortigosa De Cameros
+Bodegas Finca La Emperatriz,98,5.0,Wineries & Vineyards,Banos de Rioja
+Bodegas Olarra,60,4.5,Wineries & Vineyards,Logrono
+Bodega Finca Valpiedra,83,4.5,Wineries & Vineyards,Fuenmayor
+Mercado de San Blas,105,3.5,Shopping Malls,Logrono
+Iglesia Santa Maria la Mayor,47,4.5,Churches & Cathedrals,Ezcaray
+Bodegas Valenciso,128,5.0,Wineries & Vineyards,Ollauri
+Ermita de San Felices de Bilibio,54,4.5,Religious Sites,Haro
+Jardín Botánico de La Rioja,33,5.0,Gardens,Jardin Botanico de
+Centro Comercial Berceo.,32,4.0,Shopping Malls,Logrono
+Bodegas Valentin Pascual,86,5.0,Wineries & Vineyards,Cenicero
+Iglesia de Santiago el Real,111,4.0,Churches & Cathedrals,Logrono
+Calle Portales,43,4.5,Points of Interest & Landmarks,Logrono
+Bodegas Marques de Vargas,20,4.5,Wineries & Vineyards,Logrono
+Castillo De San Vicente,64,4.5,Castles,San Vicente de la Sonsierra
+La Casa Encantada,65,4.0,Speciality Museums,Briones
+Castillo de Cuzcurrita Wine Cellar,39,4.5,Wineries & Vineyards,Cuzcurrita de Rio Tiron
+Catedral de Santa Maria,97,4.0,Churches & Cathedrals,Calahorra
+Bodegas LAN,46,5.0,Wineries & Vineyards,Fuenmayor
+Pantano de La Grajera,19,4.5,Bodies of Water,Logrono
+Centro historico de Haro,28,4.0,Points of Interest & Landmarks,Haro
+Centro de Interpretacion Paleontologica de La Rioja,57,4.0,Science Museums,Centro de Interpretacion Paleontologica de
+Tobelos Bodegas y Vinedos,24,5.0,Wineries & Vineyards,Brinas
+Bodegas Montecillo,28,4.5,Wineries & Vineyards,Navarrete
+Iglesia de Nuestra Senora de la Asuncion,76,4.5,Churches & Cathedrals,Briones
+Monasterio de Nuestra Senora de la Piedad,72,4.5,Religious Sites,
+Aqualar,7,3.5,Water Parks,
+Fabrica De Harinas La Gloria,22,5.0,Speciality Museums,
+El Cubo de Revellin,114,4.0,Ancient Ruins,
+Bodegas Bilbainas,267,4.5,Wine Bars,
+Bodega Viña Real,109,4.5,,
+Parque Natural Sierra Cebollera,133,4.5,,
+Cathedral of Santo Domingo de la Calzada,311,4.5,,
+Bodegas Martinez Lacuesta,142,4.5,,
+La Bodega del Tesoro,64,5.0,,
+Bohedal Bodega Boutique,268,5.0,,
+Mirador de las Ciguenas,143,4.5,,
+Bodegas Riojanas,173,4.5,,
+Bodegas Roda,163,4.5,,
+Altanza,133,5.0,,
+Catedral de El Salvador de Santo Domingo de la Calzada,221,4.5,,
+Bodegas Urbina,174,5.0,,
+Bodegas Faustino Rivero Ulecia,31,5.0,,
+Iglesia de San Bartolome,274,4.5,,
+Bodega Hacienda Lopez de Haro,41,5.0,,
+Bodegas TIHOM,17,5.0,,
+Paseo del Espolon,213,4.0,,
+El Barranco Perdido,187,3.0,,
+Bodegas Beronia,72,4.5,,
+Casa de Las Ciencias,165,4.0,,
+Iglesia Nuestra Senora de la Asuncion,62,5.0,,
+Arnedo Shopping Factory,7,3.5,,
+Church of Santo Tomas,132,4.5,,
+Parque del Ebro,117,4.5,,
+Castillo de Sajazarra,42,4.5,,
+Valdezcaray,161,3.5,,
+Miguel Merino Winery,63,5.0,,
+Monastery of Valvanera,122,4.0,,
+Museo Wurth La Rioja,72,4.5,,
+Via Verde del Oja,35,4.5,,
+Capitan Haddock Cafe & Parque Infantil,5,4.5,Bars & Clubs,Najera
+La Rioja Bike Tours,67,5.0,Gear Rentals,Logrono
+Anastasiya Gastrobar,2,5.0,Bars & Clubs,Logrono
+Riojatrek,310,5.0,Sightseeing Tours,Logrono
+Vinoteca Rodriguez Alonso,9,3.0,Bars & Clubs,Haro
+Badaran Que Hablar,1,5.0,Wineries & Vineyards,Badaran
+Discoteca Concept,3,3.5,Dance Clubs & Discos,Logrono
+Taxi Jose Haro,2,5.0,Taxis & Shuttles,Haro
+Cafe Boulevard,16,4.0,Bars & Clubs,Arnedo
+La Fama,9,3.0,Bars & Clubs,Logrono
+Tierra de Sabores (Wine Shop),3,4.5,Speciality & Gift Shops,Logrono
+Centro Ecuestre Villarrica,2,5.0,Horseback Riding Tours,San Asensio
+Zhivago Cafe,9,4.0,Bars & Clubs,Logrono
+Bodegas Alicia Rojas,1,5.0,Wineries & Vineyards,Ausejo
+Riojaforum,1,5.0,Convention Centers,Logrono
+Licoreria Virgen Del Cisne,9,3.0,Wineries & Vineyards,Hormilleja
+EL RINCON DE LA CANELA,2,4.5,Bars & Clubs,Casalarreina
+Atipyca,45,5.0,Speciality & Gift Shops,Logrono
+Calado de Catas El Legado,4,5.0,Wine Tours & Tastings,Cenicero
+Vinun Ad Amicus,3,4.5,Wine Bars,Banares
+Vinos Castro,8,4.0,Wineries & Vineyards,Santo Domingo de la Calzada
+BAR DEL Castillo,5,4.0,Bars & Clubs,San Asensio
+Chamberi Villamediana,196,5.0,Bars & Clubs,Villamediana de Iregua
+Cafeteria Medievo,0,,Bars & Clubs,Santo Domingo de la Calzada
+Cortefiel,0,,Department Stores,Logrono
+Carlos Serres,0,,Wineries & Vineyards,
+Bodegas Petralanda,0,,Wineries & Vineyards,
+Zen Club,0,,Bars & Clubs,
+Love Rioja,0,,Sightseeing Tours,
+Bodega Abel Mendoza Monge,0,,Wineries & Vineyards,
+Love Rioja,196,5.0,,
+Bodega Abel Mendoza Monge,3,3.5,,
+Bar Mirvi,7,4.0,,
+Bar Diagonal,1,5.0,,
+Los Secretos de Claudia,4,5.0,,
+Casino Calceatense,1,5.0,,
+Arenero Picos De Urbión,3,5.0,,
+Amaliss,2,2.5,,
+La Boheme,19,3.0,,
+Brezo,1,4.0,,
+Parque Infantil,3,4.5,,
+Bodegas Castillo Alonso,46,5.0,,
+La Riojanita,37,4.5,,
+Cerveceria Titanic,3,3.5,,
+Bar Acuario,6,3.5,,
+Cafe Parlamento,2,5.0,,
+San Queremos,1,4.0,,
+Al Punto,41,5.0,,
+La Estación,5,3.5,,
+Bodega Eduardo Garrido,0,,,
+Vinos Los Santos S L,0,,,
+Vinoteca Larría,0,,,
+Enoturismo en Bodegas Corral,0,,,
+Fungiturismo,0,,,
+Galeria Pub,0,,,
+Genesis,0,,,
+Cafe Carlos,0,,,
+Bodegas Sonsierra Wine Bar,0,,,
+Danitguia,0,,,
+CAFETERIA ATALAYA,0,,,
+Bodegas Nubori,1,5.0,,
+Ayuntamiento De San Asensio,4,2.5,,
+Casa de los Gadea,1,3.0,,
+Metaversia Calahorra,1,5.0,,
+Hotel California,6,4.5,,
+Rioja Rentabike,14,5.0,,
+Pirolo,15,4.0,,
+Centro zen Dharma,11,4.0,,
+Iglesia De San Pedro,2,3.5,,
+Asalto Al Cole I Escape Room,6,5.0,,
+Globos Arcoiris,195,5.0,,
+Rioja Wine Trips,455,5.0,,
+Date un Capricho,6,5.0,,
+Haro Taxi,7,4.5,,
+Iglesia Nuestra Senora de la Natividad,2,4.0,,
+Pub Cumbia Son Karaoke,3,4.5,,
+Art-4,4,4.5,,
+Saline Spa,43,2.5,,
+El Poyo de Roldan,1,4.0,,
+Sala Negra Café-Teatro,2,5.0,,
+Bar 5 Pesos,12,4.0,,
+Ermita de San Roque,7,3.5,,
+Yaldekarts,2,4.5,,
+Iglesia de San Julian,1,4.0,,
+Morry,11,4.0,,
+Silvestres,89,5.0,,
+Ayuntamiento De Elvillar,1,3.0,,
+Cafe Luz,21,3.5,,
+Capitan Haddock Cafe & Parque Infantil,5,4.5,,
+Anastasiya Gastrobar,2,5.0,,
+Castillo De Enciso,1,4.0,Castles,Enciso
+Parroquia de San Martin,3,2.5,Churches & Cathedrals,Cenicero
+Iglesia de San Juan de Letran,1,4.0,Ancient Ruins,Pedroso
+Museo Virgen de la Vega,2,3.5,Children's Museums,Haro
+Castillo De Nalda,1,4.0,Castles,Islallana
+Bodegas Concejo de Ollauri,1,4.0,Wineries & Vineyards,Ollauri
+Rioja Wine Trips,455,5.0,Private Tours,Logrono
+Ayuntamiento de Viniegra de Arriba,3,3.5,Government Buildings,Viniegra de Arriba
+Ayuntamiento de Viniegra de Abajo,3,3.5,Government Buildings,Viniegra de Abajo
+Torreon de Sor María de Leiva,1,4.0,Observation Decks & Towers,Santo Domingo de la Calzada
+Teorema,106,4.5,Bars & Clubs,Haro
+Bar Fraggle Rock,6,5.0,Bars & Clubs,Logrono
+Maze Room,41,4.5,Escape Games,Logrono
+Castillo De Autol,1,4.0,Castles,Autol
+Iglesia Parroquial de Santa María,2,4.0,Churches & Cathedrals,Fuenmayor
+Hospital de San Juan de Acre,5,2.5,Ancient Ruins,Navarrete
+Casco antiguo de Calahorra,15,2.0,Points of Interest & Landmarks,Calahorra
+Iglesia De Santa Eulalia,1,5.0,Churches & Cathedrals,Arnedo
+Iglesia de Santa Maria la Mayor de Treviana,2,4.0,Churches & Cathedrals,Treviana
+Ateneo Riojano,1,5.0,Cultural Events,Logrono
+Mitsou Art Shop & Studio,7,5.0,Speciality & Gift Shops,Logrono
+Del Mar Skatehouse,2,4.5,Game & Entertainment Centers,Logrono
+La Cueva _San Juan13,32,4.0,Bars & Clubs,Logrono
+La Casa Del Indiano,1,3.0,Architectural Buildings,El Villar
+Bodegas Alvar,1,5.0,Wineries & Vineyards,Sotes
+Ermita de La Ascensión,1,5.0,Churches & Cathedrals,
+Iglesia De San Adrian,1,4.0,Churches & Cathedrals,
+Bodegas Nubori,1,5.0,Wineries & Vineyards,
+Saoco Salsoteca,7,4.0,Bars & Clubs,
+El Poyo de Roldan,1,4.0,Points of Interest & Landmarks,
+Bodegas Sonsierra Wine Bar,1,4.0,Wine Bars,San Vicente de la Sonsierra
+Queso Los Cameros,15,4.5,Factory Tours,Haro
+Sala Gonzalo de Berceo,1,4.0,Movie Theaters,Logrono
+CAFETERIA ATALAYA,5,3.5,Bars & Clubs,Logrono
+Cafe Stress Bar,13,2.5,Bars & Clubs,Logrono
+Enigma,1,5.0,Bars & Clubs,Logrono
+Bodega Antigua De Azenari,26,4.0,Wineries & Vineyards,Hormilla
+Arenero Picos De Urbión,7,3.5,Parks,Logrono
+Campo Activo,1,5.0,Hiking & Camping Tours,Hornos de Moncalvillo
+El Mexicano,1,1.0,Bars & Clubs,Logrono
+Vinos Los Santos S L,2,5.0,Wineries & Vineyards,Navarrete
+Cafe Lucronium,2,2.0,Bars & Clubs,Logrono
+Cines Arcca,1,3.0,Movie Theaters,Calahorra
+Primark Logrona Berceo,24,5.0,Speciality & Gift Shops,Logrono
+Centro Gallego,8,3.0,Bars & Clubs,Logrono
+Sala Macao,2,4.0,Bars & Clubs,Logrono
+Della Toffola Ibérica,7,5.0,Wineries & Vineyards,Navarrete
+Cooperativa Nuestra Senora Del Campo,1,5.0,Wineries & Vineyards,Lanciego
+Equis Moda,16,5.0,Speciality & Gift Shops,Calahorra
+Ojasport,2,5.0,Balloon Rides,Haro
+Iglesia de la Asunción,0,,Churches & Cathedrals,Hornos de Moncalvillo
+Cafe Del Mercado,0,,Bars & Clubs,Logrono
+Heredad San Andrés,0,,Wineries & Vineyards,San Vicente de la Sonsierra
+Los Cuentos de La Luna,0,,Bars & Clubs,Logrono
+Casino Calceatense,0,,Casinos,Santo Domingo de la Calzada
+Parque Infantil,0,,Parks,
+"Parque de Aventura ""Sierra de Cameros"" de Lumbreras",0,,Climbing Tours,
+El Dorado Centro Equestre,0,,Horseback Riding Tours,
+Sensum Rioja Tours,0,,Multi-day Tours,
+Tren Turistico Del Vino,0,,Bus Tours,
+Rioja Alta Golf Club,20,3.5,,
+Parque de Iturrimurri,4,3.5,,
+Plaza De Toros De La Ribera,1,5.0,,
+Iglesia Parroquial De Santa Maria De La Asuncion,13,3.5,,
+Gravedad Zero,6,4.5,,
+Isla Park,2,3.5,,
+Puente Medieval,11,4.0,,
+Parroquia de Santa Maria de Valvanera,18,3.0,,
+Bodega Finca de Los Arandinos,7,3.5,,
+Plaza De Toros De Arnedo,1,4.0,,
+Concordia Park,3,3.5,,
+Dulin Sombrerero,5,4.5,,
+Sendero de Valvanera,2,4.0,,
+Iglesia Parroquial de la Santa Cruz,5,4.5,,
+Muralla,7,3.5,,
+Ermita De San Andrés Y San Blas,1,4.0,,
+Cascada Puente Ra,2,3.5,,
+Parque de las Victimas del Terrorismo,3,3.0,,
+Centro de la Emigracion Riojana,2,4.5,,
+Iglesia de Santiago,1,4.0,,
+Bodegas Ajuarte,1,5.0,,
+Puente Romano (medieval),1,5.0,,
+Picuezo E Picueza,1,5.0,,
+Ermita de San Juan de Arriba,6,4.0,,
+Parroquia de San Martin,3,2.5,,
+Antiguas minas de plomo de Jubera,2,4.0,,
+Rioja Like A Native,692,5.0,,
+Castillo de Quel,2,4.0,,
+Ermita de Santa Maria de la Antigua o de la Santa Cruz,4,4.5,,
+Bodegas Concejo de Ollauri,1,4.0,,
+Santuario de la Virgen de Tomalos,3,4.5,Points of Interest & Landmarks,Torrecilla en Cameros
+Fuertes Gourmet,77,5.0,Speciality & Gift Shops,Calahorra
+Ayuntamiento De San Vicente De La Sonsierra,11,4.0,Government Buildings,Galilea
+Aceites Hejul,3,5.0,Distilleries,Soto en Cameros
+Mirador Del Río Leza,2,5.0,Lookouts,Ezcaray
+Piscinas Municipales,1,3.0,Sports Complexes,Arnedo
+Palacio De La Baronesa,1,4.0,Architectural Buildings,Logrono
+Bar Donosti,161,4.0,Bars & Clubs,Brinas
+Bodegas Mentoste,2,5.0,Wineries & Vineyards,Logrono
+LogicRoom,89,5.0,Escape Games,Viguera
+Mirador De Viguera,1,5.0,Lookouts,Logrono
+La Abadia Perdida,28,5.0,Escape Games,Logrono
+Plaza De Toros De La Ribera,1,5.0,Arenas & Stadiums,Navarrete
+Hospital San Juan de Acre,3,4.0,Points of Interest & Landmarks,Agoncillo
+Insidious,47,5.0,Escape Games,Arnedo
+Castillo De Aguas Mansas,2,5.0,Castles,Arnedillo
+Bulevar del Calzado,2,3.5,Monuments & Statues,Logrono
+Castillo De Arnedillo,1,4.0,Castles,Santo Domingo de la Calzada
+La Casa de La Imagen,4,4.0,Speciality Museums,Logrono
+Ojapark,12,4.0,Game & Entertainment Centers,Navarrete
+Rioja Like A Native,692,5.0,Cultural Tours,Gimileo
+Bodegas Montecillo,3,4.5,Wineries & Vineyards,Bobadilla
+Bodegas Cor De Mei,2,5.0,Wineries & Vineyards,Logrono
+Bodegas Senorio de Somalo,2,5.0,Wineries & Vineyards,
+Estadio Municipal De Las Gaunas,1,5.0,Playgrounds,
+Parlamento De La Rioja,7,4.0,Government Buildings,
+Tio agus,142,4.5,Bars & Clubs,
+Parroquia de la Ascensión,5,4.0,Architectural Buildings,
+Espacio Sagasta,3,4.5,Speciality Museums,
+Pause & Play,2,2.0,Game & Entertainment Centers,
+Tren Turistico Del Vino,2,5.0,Bus Tours,Haro
+Rioja Wine Tours,19,5.0,Food Tours,Logrono
+CLAM bar pizza,2,3.0,Bars & Clubs,Logrono
+Grape Aventura,50,5.0,Self-Guided Tours & Rentals,Haro
+La Segunda Taberna,23,5.0,Bars & Clubs,Logrono
+Segway la Rioja,1,3.0,Segway Tours,Logrono
+Golmajería La Golosina,14,4.5,Speciality & Gift Shops,Logrono
+Local Experts Tours,5,5.0,Walking Tours,Logrono
+Cinema pub,10,4.0,Bars & Clubs,San Asensio
+Bodegas Blanco Pérez De Azpillaga,3,5.0,Wineries & Vineyards,Lanciego
+Polideportivo Valle Del Oja,17,4.5,Arenas & Stadiums,Santo Domingo de la Calzada
+Free Tour Logroño,1,1.0,Day Trips,Logrono
+Rafting Rioja,1,1.0,Canyoning & Rappelling Tours,Logrono
+Bodegas Gregorio Martinez,27,5.0,Wine Tours & Tastings,Sorzano
+Bierhaus Odeon,9,3.5,Beer Tastings & Tours,Logrono
+Tio Tito Bocadillos,29,4.5,Bars & Clubs,Logrono
+Diva Bar de Copas,3,5.0,Bars & Clubs,Logrono
+Exquisite Rioja,9,5.0,Cultural Tours,Haro
+Moscaventur,1,5.0,Canyoning & Rappelling Tours,Arnedo
+Traveloja,6,5.0,"4WD, ATV & Off-Road Tours",Herramelluri
+FABRES Boutique Agency,2,5.0,Cultural Tours,Logrono
+La Tienda De Julia,1,5.0,Speciality & Gift Shops,Ezcaray
+Aerorioja,0,,Air Tours,Haro
+Laurus Spa,0,,Spas,Najera
+Logroaventura,0,,Canyons,Logrono
+Rutaventura4x4,0,,Private Tours,
+Bodega Teodoro Ruíz Monge,0,,Wine Tours & Tastings,
+Havefun Logroño,0,,Speciality & Gift Shops,
+Proyecto Catarte,0,,Beer Tastings & Tours,
+Aesthetic Center Silvia Pascual,0,,Spas,
+Iglesia Parroquial de Santa Eulalia de Merida,0,,Churches & Cathedrals,Berceo
+Bodega Beleluin,0,,Wineries & Vineyards,Alcanadre
+Bridge of Mantible,0,,Bridges,Lanciego
+Cines Arcca,0,,Movie Theaters,Calahorra
+Bodegas Horola,0,,Wineries & Vineyards,Banos de Rio Tobia
+Carlos Capin Suarez,0,,Taxis & Shuttles,Haro
+La Plazuela de Barriocepo,0,,Speciality & Gift Shops,Logrono
+Iglesia de la Santa Cruz,0,,Churches & Cathedrals,Najera
+Bodegas Nestares Eguizábal,0,,Wineries & Vineyards,Galilea
+Iglesia Inmaculada,0,,Churches & Cathedrals,Najera
+Enjoy the most beautiful places in La Rioja during your stay,0,,Taxis & Shuttles,Enjoy the most beautiful places in
+Iglesia De San Martín,0,,Churches & Cathedrals,Fonzaleche
+Iglesia Parroquial de Nuestra Senora de La Asuncion,0,,Churches & Cathedrals,Rodezno
+Iglesia San Martin,0,,Churches & Cathedrals,Rodezno
+Rioja in Style,0,,Sightseeing Tours,Logrono
+Bodegas JER,0,,Wineries & Vineyards,Najera
+Las Majadas,0,,Horseback Riding Tours,Cenicero
+Sensum Rioja Tours by Celia,0,,Multi-day Tours,Logrono
+Rivalia Bodegas y Vinedos,0,,Wineries & Vineyards,Badaran
+Sparta Sport Center,0,,Health Clubs,Logrono
+Unidad cccc,0,,Wine Tours & Tastings,Logrono
+Masajes Raquel Blanco,0,,Spas,Logrono
+Senorio de Valbornedo,0,,Wineries & Vineyards,Navarrete
+Bodegas Latente,0,,Wineries & Vineyards,Albelda de Iregua
+Kauri Salud y Bienestar,0,,Spas,Logrono
+Monasterio de San Prudencio,0,,Ancient Ruins,
+Algazara Estudio,0,,Lessons & Workshops,
+Campo Miel,0,,Lessons & Workshops,
+Violeta Betolaza Román. Decoración En Cerámica.,0,,Speciality & Gift Shops,
+Iglesia De Santa Ana,0,,Churches & Cathedrals,
+Havefun Logroño,1,5.0,Speciality & Gift Shops,Logrono
+Aesthetic Center Silvia Pascual,14,5.0,Spas,Logrono
+Hiper Market Alfaro Sl,1,5.0,Speciality & Gift Shops,Alfaro
+Gominolo,3,2.5,Speciality & Gift Shops,Cenicero
+Prosystem Seguridad,3,4.5,Speciality & Gift Shops,Autol
+Dir Rioja,3,3.5,Speciality & Gift Shops,Arnedo
+La Rioja en Globo,2,5.0,Air Tours,Logrono
+Rioja&North,1,5.0,Wine Tours & Tastings,Logrono
+JamonSobron Embutidos,1,5.0,Food Tours,Banos de Rio Tobia
+Cultural Circuits InterRías Trips,0,,Multi-day Tours,Logrono
+Solivagant,0,,Historical & Heritage Tours,Santo Domingo de la Calzada
+Viveros Inverflor,0,,Speciality & Gift Shops,Calahorra
+Complementos Barrios,0,,Speciality & Gift Shops,Santo Domingo de la Calzada
+Don Tresillo,0,,Speciality & Gift Shops,Logrono
+100 Arquitectos Proyectos,0,,Speciality & Gift Shops,Calahorra
+La Mieleria,0,,Beer Tastings & Tours,Ventosa
+Enoturismo Ecuestre,0,,Wine Tours & Tastings,Lardero
+Benini Moda Y Complementos,0,,Speciality & Gift Shops,Logrono
+Estanco Tabacos Expendeduría No. 8,0,,Speciality & Gift Shops,Logrono
+La Carretilla,0,,Speciality & Gift Shops,Logrono
+Famaliving Logrono,0,,Speciality & Gift Shops,Logrono
+Alvuelo,0,,Parasailing & Paragliding,Logrono
+Riojapress,0,,Speciality & Gift Shops,Logrono
+Mercería La Cinta Roja,0,,Speciality & Gift Shops,Logrono
+Pipes,0,,Speciality & Gift Shops,Murillo del Rio Leza
+Electrodomésticos Arenas,0,,Speciality & Gift Shops,
+Bambú La Rioja,0,,Bars & Clubs,
+Logroaventura,0,,Canyoning & Rappelling Tours,
+Visitas Narradas a Calados y Lagares en Logroño,0,,Historical & Heritage Tours,
+Traddu Traducción & Internacionalización,0,,Sightseeing Tours,

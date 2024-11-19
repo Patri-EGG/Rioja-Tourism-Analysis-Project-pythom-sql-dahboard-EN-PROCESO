@@ -75,24 +75,156 @@ DEALLOCATE tablas_cursor;
 EXEC sp_executesql @sql;
 
 
---  REEMPLAZAR VALORES 0  A NULL EN COLUMNA RATING
-ALTER TABLE top_restaurants_trip
-ALTER COLUMN Rating FLOAT NULL;
-
-UPDATE top_restaurants_trip
-SET rating = NULL
-WHERE rating = 0;
-
--- REEMPLAZAR VALORES ENTEROS A DECIMALES EN COLUMNA VALORACION
-
-ALTER TABLE top_activities_trip
-ALTER COLUMN valoracion FLOAT
-
-UPDATE top_activities_trip
-SET valoracion = CAST(valoracion AS FLOAT) / 10;
 
 
+----------------------------------------CONSULTAS-------------------------------------
+
+-- MESES CON MAYOR GRADO DE OCUPACION HOTELES
+
+WITH MaxOcupacionPorAno AS (
+    SELECT 
+        YEAR(fecha) AS año,          -- Extrae el año de la columna 'fecha'
+        MONTH(fecha) AS mes,         -- Extrae el mes de la columna 'fecha'
+        MAX(gopph_total) AS max_gopph_total,
+        MAX(gopph_finde_total) AS max_gopph_finde_total
+    FROM 
+        go_por_ubicacion
+    GROUP BY 
+        YEAR(fecha), MONTH(fecha)
+),
+MaxMesesPorAno AS (
+    SELECT 
+        año, 
+        mes,
+        max_gopph_total,
+        max_gopph_finde_total,
+        ROW_NUMBER() OVER (PARTITION BY año ORDER BY max_gopph_total DESC) AS ranking
+    FROM 
+        MaxOcupacionPorAno
+)
+SELECT 
+    año, 
+    mes, 
+    max_gopph_total, 
+    max_gopph_finde_total
+FROM 
+    MaxMesesPorAno
+WHERE 
+    ranking = 1;
+
+-- MESES CON MAYOR GRADO DE OCUPACION APARTAMENTOS
+
+WITH MaxOcupacionPorAno AS (
+    SELECT 
+        YEAR(fecha) AS año,          -- Extrae el año de la columna 'fecha'
+        MONTH(fecha) AS mes,         -- Extrae el mes de la columna 'fecha'
+        MAX(goppa_total) AS max_goppa_total,
+        MAX(goppa_finde_total) AS max_goppa_finde_total
+    FROM 
+        go_por_ubicacion
+    GROUP BY 
+        YEAR(fecha), MONTH(fecha)
+),
+MaxMesesPorAno AS (
+    SELECT 
+        año, 
+        mes,
+        max_goppa_total,
+        max_goppa_finde_total,
+        ROW_NUMBER() OVER (PARTITION BY año ORDER BY max_goppa_total DESC) AS ranking
+    FROM 
+        MaxOcupacionPorAno
+)
+SELECT 
+    año, 
+    mes, 
+    max_goppa_total, 
+    max_goppa_finde_total
+FROM 
+    MaxMesesPorAno
+WHERE 
+    ranking = 1;
 
 
+-- MESES CON MAYOR GRADO DE OCUPACION TURISMO RURAL
+
+WITH MaxOcupacionPorAno AS (
+    SELECT 
+        YEAR(fecha) AS año,          -- Extrae el año de la columna 'fecha'
+        MONTH(fecha) AS mes,         -- Extrae el mes de la columna 'fecha'
+        MAX(gopptr_total) AS max_gopptr_total,
+        MAX(gopptr_finde_total) AS max_gopptr_finde_total
+    FROM 
+        go_por_ubicacion
+    GROUP BY 
+        YEAR(fecha), MONTH(fecha)
+),
+MaxMesesPorAno AS (
+    SELECT 
+        año, 
+        mes,
+        max_gopptr_total,
+        max_gopptr_finde_total,
+        ROW_NUMBER() OVER (PARTITION BY año ORDER BY max_gopptr_total DESC) AS ranking
+    FROM 
+        MaxOcupacionPorAno
+)
+SELECT 
+    año, 
+    mes, 
+    max_gopptr_total, 
+    max_gopptr_finde_total
+FROM 
+    MaxMesesPorAno
+WHERE 
+    ranking = 1;
+
+-- MESES CON MAYOR GRADO DE OCUPACION CAMPINGS
+
+WITH MaxOcupacionPorAno AS (
+    SELECT 
+        YEAR(fecha) AS año,          -- Extrae el año de la columna 'fecha'
+        MONTH(fecha) AS mes,         -- Extrae el mes de la columna 'fecha'
+        MAX(goppc_total) AS max_goppc_total,
+        MAX(goppc_finde_total) AS max_goppc_finde_total
+    FROM 
+        go_por_ubicacion
+    GROUP BY 
+        YEAR(fecha), MONTH(fecha)
+),
+MaxMesesPorAno AS (
+    SELECT 
+        año, 
+        mes,
+        max_goppc_total,
+        max_goppc_finde_total,
+        ROW_NUMBER() OVER (PARTITION BY año ORDER BY max_goppc_total DESC) AS ranking
+    FROM 
+        MaxOcupacionPorAno
+)
+SELECT 
+    año, 
+    mes, 
+    max_goppc_total, 
+    max_goppc_finde_total
+FROM 
+    MaxMesesPorAno
+WHERE 
+    ranking = 1;
 
 
+--CUALES SON LAS ACTIVIDADES MAS POPULARES Y DONDE SE ENCUENTRAN
+
+SELECT 
+    categoria,
+    actividad,
+    ubicacion,
+    SUM(num_resenas) AS total_resenas,
+    AVG(valoracion) AS valoracion_promedio
+FROM 
+    top_activities_trip
+GROUP BY 
+    categoria, actividad, ubicacion
+ORDER BY 
+    total_resenas DESC, 
+    valoracion_promedio DESC;
